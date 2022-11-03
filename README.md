@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanya Phiphatdetsakun</h1>
 <h3 align="center">"Genius is one percent inspiration and ninety-nine percent perspiration."</h3>
 
-- 📫 How to reach me **Chanyawannastudy@gmail.com**
+- 📫 How to reach me **Chanyaxcoding@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
